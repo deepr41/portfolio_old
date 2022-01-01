@@ -6,6 +6,6 @@ type HomeState = {};
 
 export default class Home extends Component<HomeProps, HomeState> {
   render() {
-    return <div></div>;
+    return <div>Home Component</div>;
   }
 }

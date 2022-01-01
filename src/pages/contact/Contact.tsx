@@ -6,6 +6,6 @@ type ContactState = {};
 
 export default class Contact extends Component<ContactProps, ContactState> {
   render() {
-    return <div></div>;
+    return <div>Contact component</div>;
   }
 }

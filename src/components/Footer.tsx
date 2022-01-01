@@ -5,6 +5,6 @@ type FooterState = {};
 
 export default class Footer extends Component<FooterProps, FooterState> {
   render() {
-    return <div></div>;
+    return <div>Footer</div>;
   }
 }

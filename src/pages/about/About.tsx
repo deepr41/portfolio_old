@@ -6,6 +6,6 @@ type AboutState = {};
 
 export default class About extends Component<AboutProps, AboutState> {
   render() {
-    return <div></div>;
+    return <div>About Component</div>;
   }
 }

@@ -6,6 +6,6 @@ type ProjectsState = {};
 
 export default class Projects extends Component<ProjectsProps, ProjectsState> {
   render() {
-    return <div></div>;
+    return <div>Projects Component</div>;
   }
 }
